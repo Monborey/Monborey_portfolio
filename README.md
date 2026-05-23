@@ -29,5 +29,3 @@ src/
 └── index.css
 ```
 
-## Customization
-All content lives in `src/data/cv.js`. Edit that file to update any personal information, experience, or skills without touching the UI components.
