@@ -2,7 +2,7 @@ export const cv = {
   name: "MON Borey",
   title: "Mechanical & Automation Engineer",
   contact: {
-    phone: "(+855) 78 999 474",
+    phone: "010999474",
     email: "monborey@gmail.com",
     location: "Borey Mun, Phnom Penh",
     github: "https://github.com/Monborey", // update with your username
